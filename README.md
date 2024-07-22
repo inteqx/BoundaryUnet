@@ -1,7 +1,7 @@
 # BoundaryUNet
 BoundaryUNet is a highly efficient and accurate method for estimating propagation pathloss from a boundary vector to all points on a 2D plane in realistic propagation environments with buildings. Unlike traditional methods, this framework does not require knowledge of the source location. The model uses a boundary vector and a map as inputs to estimate the pathloss in a given area without the presence of a source. 
 
-For more information see the paper [UNet-Based Deep Learning Pathloss Estimator with Boundary Condition Input](https://link.pdf).
+For more information see the paper [UNet-Based Deep Learning Pathloss Estimator with Boundary Condition Input](https://link.pdf) (link will be available in early 2026).
 
 
 
