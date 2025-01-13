@@ -9,4 +9,6 @@ For more information see the paper [UNet-Based Deep Learning Pathloss Estimator 
 
 Download and extract the [modified RadioMapSeer dataset](https://drive.google.com/file/d/1I19xK5nPC6H7XolefNrK-_WQgOS44Xlh/view?usp=sharing) to the folder of the Jupyter Notebook.
 
-For training see [BoundaryUNet.ipynb](/BoundaryUNet.ipynb).
+For training, see [BoundaryUNet_training.ipynb](/BoundaryUNet_training.ipynb).
+
+For a test example, see [BoundaryUNet_test_example.ipynb](/BoundaryUNet_test_example.ipynb).
